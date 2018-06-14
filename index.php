@@ -5,7 +5,7 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//THIS is machine copied from Global Env Buffer
 }
 // delete condition
 
